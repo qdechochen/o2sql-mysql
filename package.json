@@ -1,13 +1,13 @@
 {
   "name": "o2sql-mysql",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "o2sql for mysql",
   "main": "index.js",
   "scripts": {
     "test": "node ./test/index.js"
   },
   "dependencies": {
-    "o2sql": "^4.0.3",
+    "o2sql": "^4.0.5",
     "pg": "^8.0.2"
   },
   "repository": {
