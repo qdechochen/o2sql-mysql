@@ -1,0 +1,35 @@
+{
+  "name": "o2sql-mysql",
+  "version": "1.0.0",
+  "description": "o2sql for mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/index.js"
+  },
+  "dependencies": {
+    "o2sql": "^4.0.3",
+    "pg": "^8.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qdechochen/o2sql-pg.git"
+  },
+  "files": [
+    "lib",
+    "index.js"
+  ],
+  "keywords": [
+    "database",
+    "mysql",
+    "postgres",
+    "postgresql",
+    "osql",
+    "o2sql"
+  ],
+  "author": "Echo Chen <qdechochen@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qdechochen/o2sql-mysql/issues"
+  },
+  "homepage": "https://github.com/qdechochen/o2sql-mysql#readme"
+}
