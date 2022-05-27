@@ -1,6 +1,6 @@
 {
   "name": "o2sql-mysql",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "o2sql for mysql",
   "main": "index.js",
   "scripts": {
